@@ -17,17 +17,3 @@
 
   
 </div>
-
-<br>
-
-😄 Pronouns: She/Her <br><br>
-
-🔭 I’m currently working on ... <br>
-Capstone Design Project <br>
-Personal project in '웹서버구축' course. <br><br>
-
-🌱 I’m currently learning ...<br>
-Spring Boot at inflearn <br><br>
-
-📫 How to reach me: <br>
-rlaalswl2407@gmail.com <br>
