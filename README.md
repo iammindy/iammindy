@@ -14,13 +14,13 @@
   </a>
 
   ***
-  hello! I am a college student aspiring to become a backend developer in South Korea. Currently, **I am interested in and studying Spring**. <br>
-  I value experience. I try to learn anything anywhere. ✨ <br><br>
+  hello! I am a college student aspiring to become a **backend developer** in South Korea. <br> 
+  Currently, **I am interested in and studying Spring**. <br><br>
   
-  
+  I value experience. I try to learn anything anywhere. ✨ <br><br><br>
+
   
   [![Mindy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammindy&theme=dracula)](https://github.com/iammindy/github-readme-stats)
-
   
 </div> <br><br>
 
