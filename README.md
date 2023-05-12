@@ -12,11 +12,9 @@
   </a>
 
   ***
-  hello! I am a college student aspiring to become a backend developer. Currently, I am interested in and studying Spring. ✨ <br>
-  안녕하세요! 백엔드 개발자를 지망하고 있는 대학생 입니다. 현재 Spring에 관심을 가지며 공부하고 있습니다.<br><br>
-  
-  I value experience. I want to learn anything, anywhere. <br>
-  경험을 중요하게 생각합니다. 어떤 상황이던, 무엇이든지 배우려고 합니다. <br><br>
+  hello! I am a college student aspiring to become a backend developer. Currently, **I am interested in and studying Spring**. <br>
+  I value experience. I want to learn anything, anywhere. ✨ <br>
+
   
 </div>
 
