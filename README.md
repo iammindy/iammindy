@@ -12,7 +12,7 @@
   </a>
 
   ***
-  hello! I am a college student aspiring to become a backend developer. Currently, **I am interested in and studying Spring**. <br>
+  hello! I am a college student aspiring to become a backend developer in South Korea. Currently, **I am interested in and studying Spring**. <br>
   I value experience. I want to learn anything, anywhere. ✨ <br>
 
   
